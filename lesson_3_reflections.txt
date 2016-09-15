@@ -1,1 +1,3 @@
-Will add something soon
+Q: When would you want to use a remote repository rather than keeping all your work local?
+A: We use remote repository when our project is hosted somewhere on cloud rather than on local machine.
+    So in order to sync the repository hosted on could with our local machine we use remote repository.
