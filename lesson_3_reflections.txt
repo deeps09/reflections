@@ -4,3 +4,11 @@ A: We use remote repository when our project is hosted somewhere on cloud rather
 
 Q: Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 A: Since, there might be case when I want to have different progress on local machine and on GitHub which wont be possible if it syncs automatically
+
+Q: Describe the differences between forks, clones, and branches. When would you use one instead of another?
+A: 		forks				clones					branches
+	      ---------			    --------------			     --------------
+   It clones repository from GitHub | It clones repository from local machine | It creates parellel file snippet within
+   to GitHub			    | to local machine or from GitHub to loca | a single repository which allows
+				    | local machine			      | multiple folks to work simultaneously on same project 
+   
