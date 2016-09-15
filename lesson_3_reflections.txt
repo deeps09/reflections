@@ -15,3 +15,5 @@ A: 		forks				clones					branches
 Q: What is the benefit of having a copy of the last known state of the remote stored locally?
 A: Not able to make out yet.
    
+Q: How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+A: A very easy and straightforward approach of working collaborately is to share package with all contributors everytime you or someone else make change but then one would not be able to track the addition and deletions efficiently also it will lead to dulpication if more than one person is working simulateously on same code/feature also adding two different changes in single code snippet is also a tedious task.
