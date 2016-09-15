@@ -11,4 +11,7 @@ A: 		forks				clones					branches
    It clones repository from GitHub | It clones repository from local machine | It creates parellel file snippet within
    to GitHub			    | to local machine or from GitHub to loca | a single repository which allows
 				    | local machine			      | multiple folks to work simultaneously on same project 
+
+Q: What is the benefit of having a copy of the last known state of the remote stored locally?
+A: Not able to make out yet.
    
